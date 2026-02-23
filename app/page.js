@@ -16,7 +16,6 @@ export default function Portfolio() {
     email: "mailto:piyushmaurya0823@gmail.com",
     phone: "+91 88875 77211 "
   };
-  // ----------------------------------------------
 
 
   // Real-time Clock

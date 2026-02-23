@@ -337,6 +337,11 @@ export default function Portfolio() {
             </div>
           </motion.div>
         </section>
+        <section>
+          <div className="glass rounded-3xl w-full p-4 last-line flex justify-center items-center">
+            Designed with lots of ❤️ & 🧠 by - Piyush Maurya
+          </div>
+        </section>
 
       </main>
     </div>

@@ -81,7 +81,6 @@ export default function Portfolio() {
     { name: "Git", src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" },
     { name: "Redux", src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" },
     { name: "Python", src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" },
-    { name: "Bash", src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" },
     { name: "PowerBI", src: "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" }
 
   ];
